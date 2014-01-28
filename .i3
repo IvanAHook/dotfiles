@@ -1,1 +1,0 @@
-/home/sergei/.i3
